@@ -13,7 +13,7 @@ Meu perfil no GitHub
 
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasxz-lima-3793773b7/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lima.lucasgs@gmail.com)
+[![lima.lucasgs@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lima.lucasgs@gmail.com)
 
 ---
 Obrigado pela visita! Vamos conectar e construir coisas incríveis juntos! 🚀
