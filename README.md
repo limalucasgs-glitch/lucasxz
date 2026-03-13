@@ -3,7 +3,8 @@ Meu perfil no GitHub
 # Olá, eu sou luquinhas2121l! 👋
 
 ## Sobre mim
-Estudante de Desenvolvimento de Sistemas no Brasil. Apaixonado por tecnologia, programação e criação de soluções inovadoras.
+-Estudante de Desenvolvimento de Sistemas. Apaixonado por programação e criação de soluções inovadoras.
+-interessado também por psicologia e musica
 
 ## Tecnologias que uso
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -11,8 +12,8 @@ Estudante de Desenvolvimento de Sistemas no Brasil. Apaixonado por tecnologia, p
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Contatos
-[![LinkedIn](https://www.linkedin.com/in/lucasxz-lima-3793773b7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasxz-lima-3793773b7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lima.lucasgs@gmail.com)
 
 ---
-Obrigado pela visita!🚀
+Obrigado pela visita! Vamos conectar e construir coisas incríveis juntos! 🚀
