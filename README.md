@@ -1,6 +1,6 @@
 # lucasxz
 Meu perfil no GitHub
-# Olá, eu sou luquinhas2121l! 👋
+# Olá, eu sou limalucasgs-glitch! 👋
 
 ## Sobre mim
 Estudante de Desenvolvimento de Sistemas no Brasil. Apaixonado por tecnologia, programação e criação de soluções inovadoras.
